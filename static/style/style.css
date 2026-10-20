@@ -1,0 +1,28 @@
+body {
+    margin: 10px;
+}
+
+#info-stuff {
+    display: flex;
+    margin-left: 5%;
+}
+
+#chat-box {
+    font-size: 20px;
+    margin-left: 1%;
+    height: 500px;
+    overflow-y: auto;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+#text-box {
+    margin-left: 1%;
+    width: 400px;
+    height: 40px;
+}
+
+#input-space {
+    display: flex;
+    gap: 20px;
+}
